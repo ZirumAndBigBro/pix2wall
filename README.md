@@ -12,3 +12,5 @@ for integration in \AC-Game\data\static_data\spawns\Npcs\New\location.xml file.
 
 disadvantage: 
 its only possible to build the wall only in one direction (y-value = constant) 
+
+Result see Schrift.jpg
